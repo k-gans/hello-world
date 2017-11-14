@@ -1,4 +1,4 @@
 # hello-world
-typical hello world program
-
-Hi there.
+public class helloworld(){
+  system.out.println("Hello world.");
+  }
